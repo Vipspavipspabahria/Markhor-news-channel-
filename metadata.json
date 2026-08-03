@@ -1,0 +1,6 @@
+{
+  "name": "Markhor News Channel",
+  "description": "WhatsApp-styled Markhor News Channel application featuring ISI Pakistan intelligence bulletins, defense updates, and real-time news feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
